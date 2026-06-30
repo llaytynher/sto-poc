@@ -1,4 +1,4 @@
-pwd by LyT
+pwnd by LyT
 
 This subdomain was claimed only to demonstrate a subdomain takeover vulnerability for responsible disclosure.
 
