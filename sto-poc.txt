@@ -6,5 +6,5 @@ No customer data, internal systems, authentication flows, or production resource
 
 This page is temporary and will be removed after the affected organization confirms remediation or provides further instructions.
 
-Researcher: llaytynher
-Researcher profile: https://github.com/llaytynher
+Luca G. R. Laytynher (LyT)
+https://github.com/llaytynher
