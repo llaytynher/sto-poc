@@ -1,0 +1,10 @@
+pwd by LyT
+
+This subdomain was claimed only to demonstrate a subdomain takeover vulnerability for responsible disclosure.
+
+No customer data, internal systems, authentication flows, or production resources were accessed, modified, or disrupted.
+
+This page is temporary and will be removed after the affected organization confirms remediation or provides further instructions.
+
+Researcher: llaytynher
+Researcher profile: https://github.com/llaytynher
